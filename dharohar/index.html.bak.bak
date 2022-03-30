@@ -1,0 +1,838 @@
+
+<!DOCTYPE html>
+<html lang="zxx">
+
+
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><body>
+	<!-- navigation -->
+	<head>
+	<title>Dharohar Online Art Exhibition</title>
+	<!-- Meta tag Keywords -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="UTF-8" />
+	
+	<script>
+		addEventListener("load", function () {
+			setTimeout(hideURLbar, 0);
+		}, false);
+
+		function hideURLbar() {
+			window.scrollTo(0, 1);
+		}
+	</script>
+	<script src="js/script.js"></script>
+	<!-- //Meta tag Keywords -->
+
+	<!-- Custom-Files -->
+	<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+	<!-- Bootstrap css -->
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+	<!-- Main css -->
+	<link rel="stylesheet" href="css/fontawesome-all.css">
+	<!-- Font-Awesome-Icons-CSS -->
+	<link href="css/popuo-box.css" rel="stylesheet" type="text/css" media="all" />
+	<!-- pop-up-box -->
+	<link href="css/menu.css" rel="stylesheet" type="text/css" media="all" />
+	<!-- menu style -->
+	<!-- //Custom-Files -->
+       
+  
+	<!-- web fonts -->
+	<link href="http://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&amp;subset=latin-ext" rel="stylesheet">
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese"
+	    rel="stylesheet">
+	<!-- //web fonts -->
+
+</head>
+
+<div class="navbar-inner">
+		<div class="container">
+			<nav class="navbar navbar-expand-lg navbar-light bg-light">
+				<div class="agileits-navi_search">
+						<div class="col-md-3 ">
+					<h1 class="text-center">
+						<a href="https://kafsite.com/" class="font-weight-bold font-italic">
+							<img src="img/logo1.png" alt=" " class="" style="width: 188px;">
+						</a>
+					</h1>
+				</div>
+				</div>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+				    aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarSupportedContent">
+					<ul class="navbar-nav ml-auto text-center mr-xl-5">
+						
+					</ul>
+				</div>
+			</nav>
+		</div>
+	</div>	<script src="js/jquery.min.js"></script>
+<script src="js/script.js"></script>
+
+	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+		<div class="">
+			<!--<img src="images/banner.png" style="width: 100%;">-->
+			</div>
+	</div>
+	<!-- //banner -->
+
+	<!-- top Products -->
+	<div class="ads-grid py-sm-5 py-4">
+		<div class="container py-xl-4 py-lg-2">
+			<div class="row">
+				<!-- product left -->
+
+				<!-- product right -->
+				<div class="col-lg-3 mt-lg-0 mt-4 p-lg-0">
+					<div class="side-bar p-sm-12 p-3">
+						<div class="search-hotel py-2">
+							
+							
+						</div>
+						
+
+						<!-- price -->
+						<div class="range border-bottom py-2">
+							<div class="w3l-range">
+								<!--ul>
+									<li id="click1">
+										<a href="#artist1">Harsimran Juneja </a>
+									</li>
+									<li id="click2">
+										<a href="#artist2">Jignesh Mahendrabhai Makwana</a>
+									</li>
+									<li id="click3" >
+										<a href="#artist3">Jyotirmay Dalapati</a>
+									</li>
+									<li id="click4" >
+										<a href="#artist4">Karad Komal</a>
+									</li>
+									<li id="click5" >
+										<a href="#artist5">Kartik Lahkar</a>
+									</li>
+									<li id="click6" >
+										<a href="#artist6">Manoj Jadaun</a>
+									</li>
+									<li id="click7">
+										<a href="#artist7">Purvi Jayendrabhai Mistry</a>
+									</li>
+									<li id="click8">
+										<a href="#section8">Rasana Ashish Bhardwaj</a>
+									</li>
+									<li id="click9" >
+										<a href="#artist9">Sunandita Bandhu</a>
+									</li>
+									<li id="click10" >
+										<a href="#artist10">Tanika Khandelwal</a>
+									</li>
+									<li id="click18" >
+										<a href="#artist18">Tanu Yadav</a>
+									</li>
+									<li id="click11" >
+										<a href="#artist11">Tanvi Waghela</a>
+									</li>
+									
+									
+								</ul-->
+								<img src="img/dhar.jpg">
+							</div>
+						</div>
+						
+						<!-- //best seller -->
+					</div>
+					<!-- //product right -->
+				</div>
+				<div class="agileinfo-ads-display col-lg-9 main" id="maindiv">
+					<div class="wrapper">
+						<!-- intro -->
+
+						<!-- first section -->
+					<div class="product-sec1 px-sm-4 px-3 py-sm-5  py-3 mb-4" id="artist00">
+							<p>
+								धरोहर translated as ‘Heritage’. Heritage is the full range of our inherited traditions, monuments, objects, and culture. Most important, it is the range of contemporary activities, meanings, and behaviors that we draw from them. We at Keshav Art Foundation believe that all the artworks that are exhibited at the exhibition titled ‘धरोहर’ are heritage for us.  
+ </p><p><br>
+With Dharohar, we have introduced twelve artists from different cities of India.  It is our pleasure to  have such talented, well recognized artists with us. In this exhibition Dharohar, we have put together various artists who have been working with so many different mediums like print-making, paintings, drawings, sculptures. Hope you all are going to love this virtual walk through over the artworks. 
+
+
+							</p>
+													
+						</div>
+
+						<!-- //first section -->
+						
+						<div class="product-sec1 px-sm-4 px-3 py-sm-5  py-3 mb-4" id="artist1">
+							<h3 class="heading-tittle font-italic">Harsimran Juneja</h3>
+							<div class="join-w3l1 py-sm-5 py-4">
+		<div class="container py-xl-4 py-lg-2">
+			<div class="row">
+				<div class="col-lg-3 mt-lg-0 mt-5">
+					<div class=" text-left p-4">
+						<div class="row ">
+							<div class="col-sm-12 offerimg-w3l">
+								<img src="img/harsimran/art1.jpg"  alt="" class="img-fluid demoimg">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-9">
+					<div class="join-agile text-left p-4">
+						<div class="row">
+							<div class="col-sm-12 offer-name demo">
+								
+								<p>Title: Foreigner in Nazca <br>                                                                                                                                                         Size: 37 x 60 inches<br>                                                                                                                                                              Medium: Acrylics, Emulsions, Oil Pastels, Oil Bars and Graphite on Canvas
+<br>Artist Statement- My art, by means is a reflection of the society that we inhabit, motivated by the tension between values and desires; interpreted through the themes of memory, history, fantasy and perception of reality. By employing drawing, painting and text in my artistic pursuits, I attempt to reconstruct a social narrative that can be interpreted plural in contemporary society. These narratives habitually draw inspiration from social observations and personal experiences within society; often culminating as truisms relevant to the current socio-political and cultural landscape. 
+My own visual language in my work oscillates between representation and abstraction, influenced by primitive or tribal imageries of humans, animals and objects from various cultures, seldom mythology. Starting typically with a story – true or fictional – I let my approach to painting be guided by intuition that often results in an act of art-making that is impulsive, aggressive and restless. This is most evident in my use of oil bars, oil pastels, pencils and graphite in my work. One may be able to retrace my actions on the basis of the marks made by these mediums. The frequent use of text in my works are a manifestation of my thoughts and observations STATEMENT amassed in that act of art-making. In hindsight, the texts are conversations with myself. However, to a viewer, they may serve as prompts to reinterpret ones past experiences or the painting itself. Oftentimes, the tension between values and desires in my work also translates into the tension between my thoughts and my actions; the ideal and the real; the past and the present. The tension not only lays emphasis on my personal conflict between values and desires, but also reflects on the politics of human nature. Can wo/man act solely on values or on desires? What values does a wo/man give up to fulfil her/his desires? In pursuit of a deeper understanding of this conflict, my resulting works are hence revealing yet concealing. An outcome that echoes on my own existence within society; or perhaps without society.
+</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+							<div class="row">
+								<div class="col-md-4 product-men mt-5">
+									<div class="men-pro-item simpleCart_shelfItem">
+										<div class="men-thumb-item text-center">
+											
+											<img src="img/harsimran/pic.jpg" alt="" height="250px;" width="250px;">
+											
+										</div>
+										
+									</div>
+								</div>
+								
+								
+							</div>
+						</div>
+					
+						<!-- two-->
+												<div class="product-sec1 px-sm-4 px-3 py-sm-5  py-3 mb-4" id="artist2">
+							<h3 class="heading-tittle font-italic">Jignesh Mahendrabhai Makwana</h3>
+							<div class="join-w3l1 py-sm-5 py-4">
+		<div class="container py-xl-4 py-lg-2">
+			<div class="row">
+				<div class="col-lg-3 mt-lg-0 mt-5">
+					<div class=" text-left p-4">
+						<div class="row ">
+							<div class="col-sm-12 offerimg-w3l">
+								<img src="img/jignesh/art1.jpg"  alt="" class="img-fluid demoimg">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-9">
+					<div class="join-agile text-left p-4">
+						<div class="row">
+							<div class="col-sm-12 offer-name demo">
+								
+								<p>Title: During lockdown indoor and outdoor                                                                                                                Medium: gauche and acrylic on paper                                                                                                                                 Size: 19.75’’ x 27.5’’                                        
+Artist Statement- India is a multiverse land, where art and culture resemble its diversity and ethnicity. Art has been pre-eminent throughout the array and has been explored holistically by all forms of life. I believe the world is full of insightful creations waiting to be explored and so is mankind which is needed a wonderful creation of the almighty. I represent the entire 1.25 billion population of the country in a unique form of art. My work is an attempt to express myself and socio- cultural status of our society. Though the educational system we receive knowledge to enrich ourselves to transform into a better human being. 
+According to the statistics in India there are 29 states to represent 1.25 billion people. With this wide range of population of our country human being has been divided into categories too. 
+My art represents the dysfunctionality of the society. The society where we have a static learning processes, and through that systematic process each of us is judged and categorized. The representation may be anything that describes the identity of the state in the country. This may include my  self- portrait, public figure, the animal, spoken language, or even a famous artist. The reparation which is constantly scene in my work is not only focusing on the numerical table but also the rhythm and harmony of life. My major response to everything around and the interaction with the non-living objects is the metaphor of my art. 
+In order to motivate and bring awareness to people, I wish to create art in which the ethnicity of the state will be carried thus depicting the importance of the education and the significance of it in saving a human life.
+</p>
+							</div>
+							<!-- <div class="col-sm-5 offerimg-w3l">
+								<img src="images/off1.jpg" alt="" height="250px;" width="250px;" class="img-fluid">
+							</div> -->
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+							<div class="row">
+								<div class="col-md-4 product-men mt-5">
+									<div class="men-pro-item simpleCart_shelfItem">
+										<div class="men-thumb-item text-center">
+											<img src="img/jignesh/pic.jpg" alt="" height="250px;" width="250px;">
+											
+										</div>
+										
+									</div>
+								</div>
+								
+								
+							</div>
+						</div>
+					
+					<!--Three-->
+						<div class="product-sec1 px-sm-4 px-3 py-sm-5  py-3 mb-4" id="artist3">
+							<h3 class="heading-tittle font-italic">Jyotirmay Dalapati</h3>
+							<div class="join-w3l1 py-sm-5 py-4">
+		<div class="container py-xl-4 py-lg-2">
+			<div class="row">
+				<div class="col-lg-3 mt-lg-0 mt-5">
+					<div class=" text-left p-4">
+						<div class="row ">
+							<div class="col-sm-12 offerimg-w3l">
+								<img src="img/jyotirmay/art1.jpg"  alt="" class="img-fluid demoimg">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-9">
+					<div class="join-agile text-left p-4">
+						<div class="row">
+							<div class="col-sm-12 offer-name demo">
+								
+									</div>
+							<!-- <div class="col-sm-5 offerimg-w3l">
+								<img src="images/off1.jpg" alt="" height="250px;" width="250px;" class="img-fluid">
+							</div> -->
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+							<div class="row">
+								<div class="col-md-4 product-men mt-5">
+									<div class="men-pro-item simpleCart_shelfItem">
+										<div class="men-thumb-item text-center">
+											<img src="img/jyotirmay/pic.jpg" alt="" height="250px;" width="250px;">
+											
+										</div>
+										
+									</div>
+								</div>
+								
+								
+							</div>
+						</div>
+
+						<!-- four -->
+						
+						<div class="product-sec1 px-sm-4 px-3 py-sm-5  py-3 mb-4" id="artist4">
+							<h3 class="heading-tittle font-italic">Karad Komal</h3>
+							<div class="join-w3l1 py-sm-5 py-4">
+		<div class="container py-xl-4 py-lg-2">
+			<div class="row">
+				<div class="col-lg-3 mt-lg-0 mt-5">
+					<div class=" text-left p-4">
+						<div class="row ">
+							<div class="col-sm-12 offerimg-w3l">
+								<img src="img/karad/art1.jpg"  alt="" class="img-fluid demoimg">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-9">
+					<div class="join-agile text-left p-4">
+						<div class="row">
+							<div class="col-sm-12 offer-name demo">
+								
+								<p>Title: Untitled 3(Series 1)                                                                                                                                     Medium: Gouache on paper
+Size:   A4 size
+Artist Statement:  I have been making doodle of ordinary things. I hadn’t realized when I started to doodle from around me. How I go I realized the character of object changed a very dramatically. Before the times objects are look like what it supposed to do. If you take a SMART PHONE there is so many function inside. For finding a location there is a map. We doesn’t need a compass for any direction or finding other place. It is a radio but it’s doesn’t look like that.
+It’s a television, computer, camera, books, documents, calendar etc. but still it’s doesn’t look like that. When I become more conscious I feel how quickly changed the things and take a place one from another. So I took an object which we used before the years not really before the centuries. Because if I draw a vintage camera  and saw some young person they have no idea what it is and even they don’t know how to use it . And take a time for photos and how long process it is. May be how weird is that for somebody? So the idea of that we went from roll and then exposed in dark and light convert into black and white and so long process .now we all have in one box which we can carry easily too.  You can get an instant photos now.so point is that we removed necessity of an object at all and that’s an extra ordinary change from the non-mechanism to mechanism or less mechanism.
+</p>
+							</div>
+							<!-- <div class="col-sm-5 offerimg-w3l">
+								<img src="images/off1.jpg" alt="" height="250px;" width="250px;" class="img-fluid">
+							</div> -->
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+							<div class="row">
+								<div class="col-md-4 product-men mt-5">
+									<div class="men-pro-item simpleCart_shelfItem">
+										<div class="men-thumb-item text-center">
+											<img src="img/karad/pic.jpg" style="object-fit: cover;" height="250px;" width="250px;">
+										</div>
+										
+									</div>
+								</div>
+								
+								
+							</div>
+						</div>
+					
+						<!-- five -->
+						
+						<div class="product-sec1 px-sm-4 px-3 py-sm-5  py-3 mb-4" id="artist5">
+							<h3 class="heading-tittle font-italic">Kartik Lahkar</h3>
+							<div class="join-w3l1 py-sm-5 py-4">
+		<div class="container py-xl-4 py-lg-2">
+			<div class="row">
+				<div class="col-lg-3 mt-lg-0 mt-5">
+					<div class=" text-left p-4">
+						<div class="row ">
+							<div class="col-sm-12 offerimg-w3l">
+								<img src="img/kartik/art1.jpg"  alt="" class="img-fluid demoimg">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-9">
+					<div class="join-agile text-left p-4">
+						<div class="row">
+							<div class="col-sm-12 offer-name demo">
+								
+								<p>Untitled                                                                                                             Size: 2’ x 2’                                                                                                   Medium: Acrylic on Canvas
+Artist Statement: Some moments are unforgettable, it was directly captured in our mind. I belongs from a village. I grow up attached with soil, the nature, the beauty of earth. Basically my works defined conflict of socio political condition, rural life, politics, through using of different medium. Sometimes I become an object on canvas or photographs. Basically I will try to “paint/clicks” some unforgettable stories.
+</p>
+							</div>
+							<!-- <div class="col-sm-5 offerimg-w3l">
+								<img src="images/off1.jpg" alt="" height="250px;" width="250px;" class="img-fluid">
+							</div> -->
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+							<div class="row">
+								<div class="col-md-4 product-men mt-5">
+									<div class="men-pro-item simpleCart_shelfItem">
+										<div class="men-thumb-item text-center">
+											<img src="img/kartik/pic.jpg" style="object-fit: cover; "height="250px;" width="250px;">
+											
+										</div>
+										
+									</div>
+								</div>
+								
+								
+							</div>
+						</div>
+					
+						<!-- six -->
+						
+							<div class="product-sec1 px-sm-4 px-3 py-sm-5  py-3 mb-4" id="artist6">
+							<h3 class="heading-tittle font-italic">Manoj Jadaun</h3>
+							<div class="join-w3l1 py-sm-5 py-4">
+		<div class="container py-xl-4 py-lg-2">
+			<div class="row">
+				<div class="col-lg-3 mt-lg-0 mt-5">
+					<div class=" text-left p-4">
+						<div class="row ">
+							<div class="col-sm-12 offerimg-w3l">
+								<img src="img/manoj/art1.jpg"  alt="" class="img-fluid demoimg">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-9">
+					<div class="join-agile text-left p-4">
+						<div class="row">
+							<div class="col-sm-12 offer-name demo">
+								
+								<p>Title: Root Out                                                                                                                                             Medium: Wood Cut on paper                                                                                                                              Size: 24’’ x 30’’
+Artist Statement: The foundation of my works are drawing. Academic skills give me confidence to make a confirmed grip on what I draw. My joyful figures shows cheerful aspect in relations between people and the life around them. I like to capture those mesmerizing tiny moments of energy and rhythm in which we all constantly flow with emotions. I admire those who respond with a reminder of how positive energy bring joy to the challenging life experiences we all face in everyday life. Transformation of emotions from one person to another is the sensational language of nature which is gifted to us. My work is about the apprehends these moments my inspiration is a collection of the saved ephemera of popular art, specifically postcard. These are originally used to communicate happy greetings. The narratives celebrates the good life in Indian fantasy when the majority of our forebears lived lies of work and more work. The imagined world is a merry dance of charm, romance and whimsy where wishes are fulfilled and work is replaced by fun, fun and more fun Recently I have reconnected to my love for visual art have been exploring ways to connect it to the painting processes. Moreover I am also exploring the dialogue between the photography and painting I see leisure as freedom from occupation, in my vacant time I draw quickly and without correction by putting myself at risk of unknown. Very briefly into the feelings of my subjects I display their symbols of abundance good luck and wholesome joy. While the pictures are simultaneously amusing their mysterious is the triumph of miracle over misery.
+</p>
+							</div>
+							<!-- <div class="col-sm-5 offerimg-w3l">
+								<img src="images/off1.jpg" alt="" height="250px;" width="250px;" class="img-fluid">
+							</div> -->
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+							<div class="row">
+								<div class="col-md-4 product-men mt-5">
+									<div class="men-pro-item simpleCart_shelfItem">
+										<div class="men-thumb-item text-center">
+											<img src="img/manoj/pic.jpg" height="250px;" width="250px;" style="object-fit: cover;">
+											
+										</div>
+										
+									</div>
+								</div>
+								
+										
+									
+								
+							</div>
+						</div>
+						<!-- seven -->
+						
+								<div class="product-sec1 px-sm-4 px-3 py-sm-5  py-3 mb-4" id="artist7">
+							<h3 class="heading-tittle font-italic">Purvi Jayendrabhai Mistry</h3>
+							<div class="join-w3l1 py-sm-5 py-4">
+		<div class="container py-xl-4 py-lg-2">
+			<div class="row">
+				<div class="col-lg-3 mt-lg-0 mt-5">
+					<div class=" text-left p-4">
+						<div class="row ">
+							<div class="col-sm-12 offerimg-w3l">
+								<img src="img/purvi/art1.jpg"  alt="" class="img-fluid demoimg">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-9">
+					<div class="join-agile text-left p-4">
+						<div class="row">
+							<div class="col-sm-12 offer-name demo">
+								
+								<p>Title: Watchman                                                                                                                                                    Medium:  Paper Cutting                                                                                                                                            Size: 22’’ x 30’’
+My works are surrounding my elements, human, my personal issues and family life. This is reflecting day by day things. I engage myself by noticing people’s behavior, nature and also how they interact with me. I realized my fascination with the movement, animation of the figure and noticing distinct behaviors. My work is concerned with the human nature and showing gestural movements in a static construct. I have been exploring this idea of overlapping human movements by the use of multiple lines and tones. The forceful lines and capturing the live image one after other on the same plane have been my area of interest. Life is full of layers I believe, it unfolds one after the other disclosing the deepness. The layers are for the one who believe in them and consciously have a vision to reveal the secret space beneath. While just as mind is also layered with the conscious, subconscious and unconscious the medium I explore gives me a superficial understanding and connection of the same. Paper has been the base for expressions for centuries, but for me while I cut paper I feel as if I am peeling the dimensions behind my thoughts. The stark contrast of the positive- negative space of the paper tells its own story; it is the same opportunity to the coherent relationship of the mind. This process indeed tells its own story. It lets me dive into the layered depth and to the observer it becomes present in the piece allows him or her to look through it. This very quality of layering and the medium of paper add a special dimensionality to my expressions. While I cut the thin lines in form of membranous it reveals its inner strength to me, I find comfort in the linearity. For me paper in itself has the charm of deriving the heavenly capacity to hold everything. Every line of cut paper is my attempt to communicate, express and narrate the observations which would unfold stories through my layers and layers of paper. The whole process is a journey in itself; the step by step movement is like silently progressing ahead. And like the layered life, I find layers of my journey unfolding with time just as the layered paper in my expressions.
+
+</p>
+							</div>
+							<!-- <div class="col-sm-5 offerimg-w3l">
+								<img src="images/off1.jpg" alt="" height="250px;" width="250px;" class="img-fluid">
+							</div> -->
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+							<div class="row">
+								<div class="col-md-4 product-men mt-5">
+									<div class="men-pro-item simpleCart_shelfItem">
+										<div class="men-thumb-item text-center">
+										
+										<img src="img/purvi/pic.jpg"style="
+    object-fit: cover;
+" alt="" height="250px;" width="250px;"></div>
+										
+									</div>
+								</div>
+								
+								
+							</div>
+						</div>
+					
+						<!-- eight -->
+						
+							<div class="product-sec1 px-sm-4 px-3 py-sm-5  py-3 mb-4" id="artist8">
+							<h3 class="heading-tittle font-italic">Rasana Ashish Bhardwaj</h3>
+							<div class="join-w3l1 py-sm-5 py-4">
+		<div class="container py-xl-4 py-lg-2">
+			<div class="row">
+				<div class="col-lg-3 mt-lg-0 mt-5">
+					<div class=" text-left p-4">
+						<div class="row ">
+							<div class="col-sm-12 offerimg-w3l">
+								<img src="img/rasana/art1.jpg"  alt="" class="img-fluid demoimg">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-9">
+					<div class="join-agile text-left p-4">
+						<div class="row">
+							<div class="col-sm-12 offer-name demo">
+								
+								<p>Title: Repress Reproduce Repeat                                                                                                                       Size: 36’’ x 72’’                                                                                                                                                           Medium: Mix Media
+Artist Statement: 
+Turning attention from ancient definitions for BEAUTY of woman to the poise of a female form in her heavy, curved and colossal body which naturally occurs with age and maturity.
+Instincts bent towards painting female nudes followed with awareness of beauty in the bulged female form. 
+Subsequently the form gradually simplified, supporting the inner journey of the mind. The awareness of emotion, feeling, and confusion, clutter of irresistible desire, sub consciousness, inner healing & collision of thousands of memories or thoughts made it easy to express through lines and color applications.
+Interesting interaction of canvas with brush strokes began to reflect the following works of art. Almost like capturing the moment of inner explosion. 
+ 
+ When the Chaos outside reaches the level of a suppressed scream. When all rainbow colors of the sky turn in one single tone. Where the hiding spaces are all occupied. When each heart beat can be heard in supersonic, clarity. We look inside. A dive so deep where you hear, see, feel, taste everything with total transparently.
+Exposing and exploiting the most inner desires, fears, disturbances, and all the chaos within. I move between the colors and the canvas struggling to strike a conversation to communicate, ultimately to find a few answers.
+ Every frame in my work is a snap shot capturing a moment of strength, weakness, confusion, misbalance, despair or simply love. 
+The diehard habits of thought and behavior, gather upon the thinking mind and layers into thick curves and fat, believing that it will be always in the deepest layer where I can hide all those thoughts of stigma and silence them there under those heavy colossal bodies.
+ Every line and form in my works is an impression of the moment with motion of the emotional mind and body. The colour palate varies with the expression, exploring new possibilities in different mediums and shades.
+
+</p>
+							</div>
+							<!-- <div class="col-sm-5 offerimg-w3l">
+								<img src="images/off1.jpg" alt="" height="250px;" width="250px;" class="img-fluid">
+							</div> -->
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+							<div class="row">
+								<div class="col-md-4 product-men mt-5">
+									<div class="men-pro-item simpleCart_shelfItem">
+										<div class="men-thumb-item text-center">
+											<img src="img/rasana/pic.jpg" height="250px;" width="250px;">
+											
+										</div>
+										
+									</div>
+								</div>
+								
+								
+							</div>
+						</div>
+				
+						
+				
+						<!-- nine -->
+											
+								<div class="product-sec1 px-sm-4 px-3 py-sm-5  py-3 mb-4" id="artist9">
+							<h3 class="heading-tittle font-italic">Sunandita Bandhu</h3>
+							<div class="join-w3l1 py-sm-5 py-4">
+		<div class="container py-xl-4 py-lg-2">
+			<div class="row">
+				<div class="col-lg-3 mt-lg-0 mt-5">
+					<div class=" text-left p-4">
+						<div class="row ">
+							<div class="col-sm-12 offerimg-w3l">
+								<img src="img/sunandita/art1.jpg"  alt="" class="img-fluid demoimg">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-9">
+					<div class="join-agile text-left p-4">
+						<div class="row">
+							<div class="col-sm-12 offer-name demo">
+								
+								<p>Title: Collecting Memories                                                                                                                                                            Medium: Aquatint Etching                                                                                                                                   Size: 13’’ x 19.5’’                                                                                                                                                                               
+Artist Statement: The identity of each person is generated from their experiences: These are transformed into memories, and in a way they end up shaping out, way of interpreting reality. Memory is a collective result of past experiences which we see or hear in our day to day life, and those become our memories and always remain in our sub-conscious mind. My recent works is the collective result of my previous work done by me. In my present work, I have used many elements which I have used in my previous work which came naturally while working on my sketches and drawings.  For example, I did work on honey bees in past works and now this work is somewhat reflected in my present work. The past work has always been an inspirational in creating new art work. In my  work I have shown bee hives that symbolizes carrying or storing honey and this has left some  impact on my mind so I have used beehives as my own memory hives-- storage place to collect all  my memories storage place to collect all my memories. I have also used the pigeons and sunbird in my work. These birds become part of my memories because of their visit in my house garden every day. These birds visit place to place around us. Sunbird collects nectar from the flowers like the way I collect my memories and preserve in my works. In reminiscent of the absent, we can see  the combination of the search for meaning linked to an administration for natural elements such  as flowers, birds create a base, a connection for everything we explore within deepest places of  the heart.
+                              
+</p>
+							</div>
+							<!-- <div class="col-sm-5 offerimg-w3l">
+								<img src="images/off1.jpg" alt="" height="250px;" width="250px;" class="img-fluid">
+							</div> -->
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+							<div class="row">
+								<div class="col-md-4 product-men mt-5">
+									<div class="men-pro-item simpleCart_shelfItem">
+										<div class="men-thumb-item text-center">
+											<img src="img/sunandita/pic.jpg" alt="" height="220px;" width="250px;" style="object-fit: cover;">
+											
+										</div>
+										
+									</div>
+								</div>
+								
+								
+							</div>
+						</div>
+					
+						<!-- ten -->
+						
+						<div class="product-sec1 px-sm-4 px-3 py-sm-5  py-3 mb-4" id="artist10">
+							<h3 class="heading-tittle font-italic">Tanika Khandelwal</h3>
+							<div class="join-w3l1 py-sm-5 py-4">
+		<div class="container py-xl-4 py-lg-2">
+			<div class="row">
+				<div class="col-lg-3 mt-lg-0 mt-5">
+					<div class=" text-left p-4">
+						<div class="row ">
+							<div class="col-sm-12 offerimg-w3l">
+								<img src="img/tanika/art1.jpg"  alt="" class="img-fluid demoimg">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-9">
+					<div class="join-agile text-left p-4">
+						<div class="row">
+							<div class="col-sm-12 offer-name demo">
+								
+								<p>Title: Moonrise
+Medium: Woodcut                                                                                                                                            Size: 30’’ x 21.4’’
+Artist Statement: My work surrounds a contemporary approach inspired by the insight derived from the popular female culture. The representation of women as they are is a liberating feeling. With this directness and boldness of females in the images and the complimenting structures behind, the artist strives to create work that turns head. 
+It is about creating something that sparks emotion in both the creator and the viewer. I created the figures both individually and in pair with appropriate props and elements in different poses.
+In my prints, the way the figures held themselves and gestures and naked showed me the personalities and confidence.  
+
+
+
+</p>
+							</div>
+							<!-- <div class="col-sm-5 offerimg-w3l">
+								<img src="images/off1.jpg" alt="" height="250px;" width="250px;" class="img-fluid">
+							</div> -->
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+							<div class="row">
+								<div class="col-md-4 product-men mt-5">
+									<div class="men-pro-item simpleCart_shelfItem">
+										<div class="men-thumb-item text-center">
+											<img src="img/tanika/pic.jpg" height="250px;" width="250px;">
+											
+										</div>
+										
+									</div>
+								</div>
+								
+								
+						</div>
+						</div>
+				
+						<!-- eighteen -->
+						
+						<div class="product-sec1 px-sm-4 px-3 py-sm-5  py-3 mb-4" id="artist18">
+							<h3 class="heading-tittle font-italic">Tanu Yadav</h3>
+							<div class="join-w3l1 py-sm-5 py-4">
+		<div class="container py-xl-4 py-lg-2">
+			<div class="row">
+				<div class="col-lg-3 mt-lg-0 mt-5">
+					<div class=" text-left p-4">
+						<div class="row ">
+							<div class="col-sm-12 offerimg-w3l">
+								<img src="img/tanu/art1.jpg"  alt="" class="img-fluid demoimg">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-9">
+					<div class="join-agile text-left p-4">
+						<div class="row">
+							<div class="col-sm-12 offer-name demo">
+								
+								<p>Title: ‘Self Absorbed’                                                                                                                                       Medium: Woodcut                                                                                                                                                      Size: 60 x 76cms
+Artist Statement: There is a thing about beauty. Beauty is always associated with the male fantasy of what female body is I don’t think there is anything wrong with beauty.   
+It’s just what women think is beautiful can be different and there can be beauty in individualism. If there is wart or a scar that can be beautiful in a sense when you paint it.                                           
+Based on my observations I create these images of ambiguous identities who like many dejected people experienced a disconnection between who they want to be and who they really are.
+I want to bring out the inherent unique movement of bigger bodies. I wanted to print people who are labelled ‘Fat’ as judged by today’s society moreover I want to understand their feelings about their bodies. These bodies speak volume bring owe in the sense of their movement. 
+Through my prints I wanted the viewer to shed their assumption about fatness free of judgement. These figures stand both individually and in pair with appropriate proportions in different poses in ways that would show off their natural shape and enhance their true beauty. The way the figure held themselves naked with confident gestures show the strength of their individual personalities and their bodies are as nature intended them to be. They are honest to themselves in a world all too often dominated by manipulated beauty.
+
+</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+							<div class="row">
+								<div class="col-md-4 product-men mt-5">
+									<div class="men-pro-item simpleCart_shelfItem">
+										<div class="men-thumb-item text-center">
+										<img src="img/tanu/pic.jpg" alt="" height="220px;" width="250px;"></a>
+										</div>
+										
+									</div>
+								</div>
+								
+								
+							</div>
+						</div>
+				
+						<!-- eleven -->
+						
+							<div class="product-sec1 px-sm-4 px-3 py-sm-5  py-3 mb-4" id="artist11">
+							<h3 class="heading-tittle font-italic">Tanvi Waghela</h3>
+							<div class="join-w3l1 py-sm-5 py-4">
+		<div class="container py-xl-4 py-lg-2">
+			<div class="row">
+				<div class="col-lg-3 mt-lg-0 mt-5">
+					<div class=" text-left p-4">
+						<div class="row ">
+							<div class="col-sm-12 offerimg-w3l">
+								<img src="img/tanvi/art1.jpg"  alt="" class="img-fluid demoimg">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-9">
+					<div class="join-agile text-left p-4">
+						<div class="row">
+							<div class="col-sm-12 offer-name demo">
+								
+								<p>Title: State of Mind                                                                                                                                          Medium: Brass and Wood                                                                                                                                                                                                                                                                                                                                                                                                                                                 Artist Statement: In most of the work, it involves the emotions and that aspect of our daily day life which we do not easily notice or think about it. In my work ‘State of Mind’, human figures and their different situation are shown.  Human figures are made up of brass metal, where all the figures are made up of brass metal, where all the figures have different sitting posture and their upper body is shown with a closed window. The closed window depicts a lost communication because many times we are not able to talk or express what is going on in my mind. But that can be seen in our sitting posture. Wooden boxes with variable height depict our situation- ups and downs of our life. 
+</p>
+							</div>
+							<!-- <div class="col-sm-5 offerimg-w3l">
+								<img src="images/off1.jpg" alt="" height="250px;" width="250px;" class="img-fluid">
+							</div> -->
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+							<div class="row">
+								
+								<div class="col-md-4 product-men mt-5">
+									<div class="men-pro-item simpleCart_shelfItem">
+										<div class="men-thumb-item text-center">
+										<img src="img/tanvi/pic.jpg" alt="" height="250px;" width="250px;">
+										</div>
+									
+									</div>
+								</div>
+							</div>
+						</div>
+					
+						
+						
+					
+
+			</div>
+		</div>
+	</div>
+	
+	<!-- copyright -->
+	
+
+	<!-- js-files -->
+	<!-- jquery -->
+	<script src="js/jquery-2.2.3.min.js"></script>
+	<!-- //jquery -->
+
+	<!-- nav smooth scroll -->
+	<script>
+		$(document).ready(function () {
+			$(".dropdown").hover(
+				function () {
+					$('.dropdown-menu', this).stop(true, true).slideDown("fast");
+					$(this).toggleClass('open');
+				},
+				function () {
+					$('.dropdown-menu', this).stop(true, true).slideUp("fast");
+					$(this).toggleClass('open');
+				}
+			);
+		});
+	</script>
+
+	<script src="js/scroll.js"></script>
+	<!-- //scroll seller -->
+
+	<!-- smoothscroll -->
+	<script src="js/SmoothScroll.min.js"></script>
+	<!-- //smoothscroll -->
+
+	<!-- start-smooth-scrolling -->
+	<script src="js/move-top.js"></script>
+	<script src="js/easing.js"></script>
+	
+	<!-- //end-smooth-scrolling -->
+
+	<!-- smooth-scrolling-of-move-up -->
+	
+	<!-- //smooth-scrolling-of-move-up -->
+
+	<!-- for bootstrap working -->
+	<script src="js/bootstrap.js"></script>
+	<!-- //for bootstrap working -->
+	<!-- //js-files -->
+</body>
+
+</html>
