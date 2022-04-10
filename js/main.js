@@ -1237,14 +1237,14 @@ function sticky_menu_width () {
 /**/
 /*isotope*/
 /**/
-$( function() {
-  $('.isotope').isotope({
-    itemSelector: '.isotope .item',
-    masonry: {
-    }
-  });
+// $( function() {
+//   $('.isotope').isotope({
+//     itemSelector: '.isotope .item',
+//     masonry: {
+//     }
+//   });
 
-});
+// });
 
 $(window).load(function() {
   /**/
@@ -1290,19 +1290,19 @@ $(window).resize(function()
   var winWidth = jQuery(window).width();
   var winHeight = jQuery(window).height();
   //sticky
-  sticky();
+  //sticky();
   mobileMainMenu();
   if ($("body").hasClass("page-boxed")) {
     sticky_menu_width();
   }
 
-  $('.isotope').isotope({
-    masonry: {}
-  });
+  // $('.isotope').isotope({
+  //   masonry: {}
+  // });
   /**/
   /* parallax */
   /**/
-  $('.parallaxed').parallax();
+  // $('.parallaxed').parallax();
 });
 /**/
 /* counter */
