@@ -4257,9 +4257,9 @@ hr.divider-big {
 .main-page .isotope .item {
     float: left;
     width: 19.97%;
-    background: #0D8;
     position: relative;
     box-sizing: border-box;
+    height: 100%;
 }
 
 .main-page .isotope .item,
